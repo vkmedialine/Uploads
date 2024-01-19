@@ -2,6 +2,6 @@
 <item>
   <version>2.0.0.0</version>
   <url>https://vkmedialine.github.io/Uploads/AppUpdate.zip</url>
-  <changelog>https://vkmedialine.github.io/Uploads/releases</changelog>
+  <changelog>https://github.com/vkmedialine/Uploads/releases</changelog>
   <mandatory>false</mandatory>
 </item>
